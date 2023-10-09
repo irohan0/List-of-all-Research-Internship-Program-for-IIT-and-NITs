@@ -14,12 +14,6 @@ The following are some global research internship positions:
   ####  *** Notice: If you got selected for Mitacs Globlink Insternship, you will be directly Eligible for Globalink Graduate Fellowship for        Masters in Canada 
    #### Deadline: 18 September
 
-### 2. [DAAD Wise Scholarship](https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
-#### Eligibility : CGPA>=9.5-9.6
-* For this the student should have acceptance letter from German Professor
-* stipend: EUR 750 per month
-* Airfare: EUR 1075
-  #### Deadline: October 15
   
 ### 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 * Only For circuital branch students and mosty for computer science student
@@ -53,10 +47,6 @@ The following are some global research internship positions:
 #### Eligibility : CGPA>=8
 #### Applications accepted year-round.
 
-### 10. [Hybrid NanoTechnology, New York University](https://engineering.nyu.edu/research/student-research/undergraduate-summer-research-program)
-#### *** Only For Female Students 
-#### Eligibility : CGPA>=8
-#### Deadline: 28 October
 
 ### 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
 #### Deadline: January 15
@@ -65,15 +55,6 @@ The following are some global research internship positions:
 * Organized by RWTH Aachen
 #### Deadline: January 15
 
-### 13. [University of Tokyo Amgem Program](http://www.amgenscholars.com/japan-program), Agmen Scholarship Japan
-* Best for Biotechnology and Life Science students
-* STIPEND:  250,000 JPY
-####  Deadline: 2nd February
-
-### 14. [University of Kyoto Amgem Program](https://www.kyoto-u.ac.jp/en/education-campus/events_news/office/kyoiku-suishin-gakusei-shien/kokusai-kyoiku-koryu/news/2019/200203_1.html)
-* Best for Biotechnology and Life Science students
-* STIPEND:  180,000 JPY
-####  Deadline: 2nd February
 
 ### 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/)
 * Organized by Rockfeller Institute
@@ -103,49 +84,23 @@ The following are some global research internship positions:
 * Only for Chemical Engineering, Power Mechanical Engineering, Materials Science Engineering, Industrial Engineering and Engineering Management, Nanoengineering and Microsystems, Biomedical Engineering
 #### Deadline: 10 January
 
-### 22. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
-* Students must identify and contact a research mentor in advance of submitting an application
-#### Deadline: 10 January
 
 ### 23. [TIGP-IIP Summer Inernship](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
 * Stipend: NTD 30,000/month-tax free
 * Best for Biotechnology students and Life science students
 #### Deadline: 28 February
 
-### 24. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
-#### *** Only for top 2 students of your branch are eligible to apply.
-#### Deadline: 15 October
 
 ### 25. [Viterbi India Program](http://iusstf.org/story/53-51-IUSSTF-Viterbi-Program.html), sponsored by IUSSTF
 * Program organized by Unviersity of South California
 * For circuital branch students
 #### Deadline: 15 November
 
-### 26. [Khorana Program for Scholars](http://iusstf.org/story/53-50-Khorana-Program.html)
-* Sponsored by IUSSTF
-* Best Internship for Biotechnology students
-#### Deadline: 10 November
-
-### 27. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx)
-* Organized by NTU Singapore
-#### *** No stipend is given instead we have to pay SGD $214.00 for using lab
-#### Deadline: 31 December
 
 ### 28. [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
 * For this the student should have acceptance letter from French Professor
 #### Deadline: 6 March
 
-### 29. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
-* Organized by LIGO Laboratory at California Institute of Technology (Caltech) 
-* Only For circuital branch students and Physics Major students
-#### Deadline: 10 Januray
-
-### 30. [Research Internship for Young Academics (RIYA) Program](https://mae.osu.edu/RIYA)
-* Organized by Ohio State University 
-* Only for Mechanical and Aerospace students of India
-* Stipend: $5,000
-* There will be 2 rounds --> 1st round is elimination round based on CV and who ever get selected can apply for 2nd round.
-#### Intitial Application Deadline: 9 September
 
 ### 31. [Duke ECE SURP](https://ece.duke.edu/undergrad/reu)
 * Organized by Duke University
@@ -157,10 +112,6 @@ The following are some global research internship positions:
 * Stipend: US$1,300 - US$1,500
 #### Deadline : 31 October
 
-### 33. [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program/application-information)
-* Stipend: 650$ per week
-* Best for Mechanical, Aerospace, Instrumentation,  physics and computer science student
-#### Deadline : 5 February
 
 ### 34. [ASPIRE](https://aspire.science.uva.nl/index.html)
 * Organized by Anton Pannekoek Institute (API), University of Amsterdam, Netherland.
@@ -181,16 +132,9 @@ The following are some global research internship positions:
 * Russian University and Only for ciruital branch student
 #### Deadline : 1st FEBRUARY
 
-### 38. [OIST Research Internship Program, Okinawa Institute of Science and Technology](https://admissions.oist.jp/oist-research-internship-program-description)
-* Mostly for Life science, mechanical. chemical engineering students
-#### Deadline: 15 October
 
 ### 39. [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
 #### Deadline: 17 February
-
-### 40. [NIG Summer Internship, JAPAN](https://nigintern.nig.ac.jp/)
-* Only for genetics and life science related field major student
-#### Deadline: 7 January
 
 ### 41. [University of Alberta Research Experience](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/how-to-apply.html)
 #### Deadline: 20 October
@@ -209,28 +153,11 @@ The following are some global research internship positions:
 * The length of the internship (usually between 2 and 6 months).
 #### Deadline: 1 March
 
-### 45. [ASTRON](https://old.astron.nl/astronomy-group/astronjive-summer-student-programme)
-##### * Only for Physics and Computer Science Major with strong interest in Astronomy
-* At Dwingeloo Observatory, Netherlands.
-#### Deadline: 1 February
-
-### 46. [UTSIP](https://www.ilo.k.u-tokyo.ac.jp/summer_en)
-* Only for Life science/natural science students
-#### Deadline: 3 February
-
-### 47. [DESY Summer School](https://summerstudents.desy.de/)
-* Only for Life science and Physics major students
-* Research at DESY Laboratory in Hamburg or Zeuthen (Berlin)
-#### Deadline: 3 February
 
 ### 48. [SITT](http://www2.siit.tu.ac.th/crd/?page_id=420)
 * Research at Sirindhorn International Institute of Technology, Thailand
 #### Deadline: 28 February
 
-### 49.[CRG Summer Internship](https://www.crg.eu/en/content/training-undergraduates/crg-summer-internship-programme)
-* Organized by The Center for Genomic Regulation (CRG), Barcelona, Spain
-* This intenship for life science stuents.
-#### Deadline: 9 March
 
 ### 50.[Summer In Entrepreneurship with Professional Intenrship](https://int.technion.ac.il/academic-programs/short-term-programs/summer-program/)
 #### Eligibility : CGPA>8 
@@ -240,11 +167,6 @@ The following are some global research internship positions:
 ### 51.[UQ Summer and Winter Research Programme](https://employability.uq.edu.au/summer-winter-research)
 #### Deadline: 8 September
 
-### 52. [Summer Intenrship at Carnegie Mellon University](https://www.ece.cmu.edu/academics/bs-in-ece/summer-internship.html)
-#### Eligibility : CGPA>9 
-* Only For Circuital Branch students
-* You have to get acceptance from Professor of Electrical and Computer Sicnece department.
-#### Deadline: 1 March
 
 ### 53. [ITRI Taiwan](https://itri.applytojob.com/)
 * Conducted by Industrial Technology Research Institute
@@ -255,79 +177,6 @@ The following are some global research internship positions:
 * Organized by Maths Department of Brown Unviersity
 * Only For Circuital Branch students and Mathematics, Computing and Statistics Major Student
 #### Deadline: 13 February
-
-### 55. [Weizmann Institute of Science Summer Program](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
-* This intenship for life science stuents.
-#### Deadline: 30 November
-
-### 56. [GIFT Internship](http://gift.postech.ac.kr/sub2_3.php)
-* Organized by Graduate Institute of Ferrous Technology, Phonag University of Science and Technology, South Korea
-* Good for Metallurgy and Mining student
-#### Deadline: 1 May
-
-### 57. [GIST Internship](https://service.gist.ac.kr/admission/graduate/foreigner?serviceType=2)
-* Organized by Gwangju Institute of Science and Technology (GIST), South Korea
-#### Deadline: 6 March
-
-### 58. [Ecole' Polytechnique](https://programmes.polytechnique.edu/en/exchange-programs/internship-program-for-international-students/program-details)
-#### Deadline: 29 February
-
-### 59. [Aalto Science Institute AScI internship programme](https://www.aalto.fi/en/aalto-science-institute/how-to-apply-to-the-asci-internship-programme)
-#### Deadline: 17 January
-
-### 60. [Mechanobiology Institute, National University of Singapore](https://mbi.nus.edu.sg/education/must/)
-* Research in the field of cell and molecular biologists, biophysicists, bioengineers, microbiologists, and theoretical physicists.
-#### Deadline: 1 March
-
-### 61. [University of Southampton internship with Ankit Singh](https://internshala.com/aniket-singh-iip)
-* Stipend: 3Lakh rupees
-* Only 5-6 students are selected for this program.
-#### Deadline:  17 January
-
-### 62. [ UNIL Summer Undergraduate Research Program](https://www.unil.ch/eb-sur/home/menuinst/how-to-apply.html)
-####  * Criteria: top 5% class ranking
-* Best for students who wants to work in biological or medical related fields.
-#### Deadline: 23 January
-
-### 63. [World Bank Internship](https://www.worldbank.org/en/about/careers/programs-and-internships/internship)
-*  Work in the fields of agriculture, economics, human development, private sector development, social science, environment, finance, and other related fields. 
-#### Deadline: 31 January
-
-### 64. [Petro Jacyk Visiting Scholars Program](https://munkschool.utoronto.ca/jacyk/project/visiting-scholarships/)
-* Best for students who wants to work in the field of social science and humanities
-#### Deadline: 15 February
-
-### 65. [RTC Summer Research Program](http://research.lunenfeld.ca/rtc/DEFAULT.ASP?page=Summer%20Research%20Program)
-* Organized by Lunenfeld-Tanenbaum research institute, University of Toronto
-*  Best for students who wants to do researh in biostatistics, biomeical and biology related fields.
-#### Deadline: 28 February
-
-### 66. [CNIO Summer Training Programme](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
-* Organized by Spanish National Cancer Research Centre
-*  Only for Life Sciences or Biomedicine-related undergraduate degree (e.g. Biology, Biomedicine, Biochemistry, Pharmacology, Bioinformatics)
-#### Deadline: 31 March
-
-### 67. [Vienna Biocenter Summer School](https://www.training.vbc.ac.at/summer-school/)
-* Best for Research in the field of Molecular biology, neuroscience, immunology, bioinformatics, RNA biology, stem cells, and biochemistry.
-#### Deadline: 31 January
-
-### 68. [American Foreign Service Association (AFSA) Internship](http://www.afsa.org/labor-management-internships)
-#### * Best for UPSC aspirant.
-#### Deadline: 1 March
-
-### 69. [UNDP Internship](https://www.in.undp.org/content/dam/india/docs/careers/UNDP_India_Internship-Policy2018.pdf)
-#### * Best for UPSC aspirant.
-* Interns specialize in the areas of: public relations/communications, sustainable development, inclusive growth, climate and disaster resilience, systems and governance strengthening, promoting civic engagement and the Sustainable Development Goals
-#### Deadline: 15 March
-
-### 70.[Insight Fellowship Program](https://insightcollaborative.org/fellowship-principles/)
-* Best for students who wants to do research in management related fields
-#### Deadline: 11 February
-
-### 71.[University of Warwick Statistics internship](https://warwick.ac.uk/fac/sci/statistics/research/internships)
-* Best for students who wants to do research in statistics, probability, or mathematical finance
-* Stipend - £350 per week (8 week programme)
-#### Deadline: 12 February
 
 ### 72.[UNDP Geospatial Data Science Internship](https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110994)
 * Minimum eligiblity is that student must be in final year of bachelor
